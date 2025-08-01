@@ -95,55 +95,10 @@ frontend/
 └── README.md
 ```
 
----
-
-### ⚛️ 5. Boilerplate: `main.tsx`
-
-```tsx
-import React from 'react';
-import ReactDOM from 'react-dom/client';
-import App from './App';
-import './index.css';
-
-ReactDOM.createRoot(document.getElementById('root')!).render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
-);
-```
 
 ---
 
-### ⚛️ 6. Boilerplate: `App.tsx`
-
-```tsx
-import React from 'react';
-
-const App: React.FC = () => {
-  return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100">
-      <h1 className="text-4xl font-bold text-blue-600">Vite + React + TypeScript + Tailwind</h1>
-    </div>
-  );
-};
-
-export default App;
-```
-
----
-
-### ▶️ 7. Start the Project
-
-```bash
-npm install
-npm run dev
-```
-
-Open in browser: `http://localhost:5173`
-
----
-
-## 🧠 Optional Add-ons
+## It can be  Need
 
 | Feature         | Install Command                              |
 | --------------- | -------------------------------------------- |
