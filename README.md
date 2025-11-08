@@ -24,7 +24,7 @@ backend/README.md
 
 ---
 
-### 📦 What This Command Does:
+### What This Command Does:
 
 * `mkdir -p`: creates directories (nested)
 * `touch`: creates empty files
@@ -32,7 +32,7 @@ backend/README.md
 
 ---
 
-### 💡 After Running:
+### After Running:
 
 You’ll have this full structure instantly:
 
